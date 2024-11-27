@@ -1,8 +1,4 @@
 /* ---------------------------------------------------------
-    * Name: Homelengo
-    * Version: 1.0.1
-    * Author: Themesflat
-    * Author URI: http://themesflat.com 
 
 	* Abstracts variable
 
@@ -4665,7 +4661,7 @@ label {
 /*------------ section ---------------- */
 .flat-section {
   padding-top: 100px;
-  padding-bottom: 100px;
+  padding-bottom: 20px;
 }
 
 .flat-section-v2 {
